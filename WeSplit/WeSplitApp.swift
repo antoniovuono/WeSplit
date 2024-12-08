@@ -3,7 +3,6 @@
 //  WeSplit
 //
 //  Created by Antonio Vuono on 01/12/24.
-//
 
 import SwiftUI
 
